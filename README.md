@@ -26,6 +26,3 @@
 
 </p>
 
-
-![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs?username=sharp3614&show_icons=true&theme=radical&locale=en&layout=compact)
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=sharp3614&show_icons=true&theme=radical&locale=en&layout=compact)

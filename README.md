@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! 🚀 I'm Nurhak</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - knurhak09@gmail.com
+🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack JavaScript development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - knurhak09@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
